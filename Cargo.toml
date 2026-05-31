@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Conservation matrix — doubly stochastic transition matrices, Birkhoff decomposition, Sinkhorn balancing, exchange graphs, conservation flows, and stochastic processes"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-conservation-matrix"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
